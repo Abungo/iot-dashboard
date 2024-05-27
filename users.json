@@ -1,0 +1,16 @@
+[
+  {
+    "username": "abungo",
+    "password": "$2b$10$M2gfZY0zNa1pyqxWywS4deVmixQitluft4UhU0aZik672VtIqPgy6",
+    "first": "abungo",
+    "last": "thokchom",
+    "designation": "admin"
+  },
+  {
+    "username": "abc",
+    "password": "$2b$10$QmRyxE5fP8TMYhbiFRXv1OswuTzHWmbQ4aLPwkjrCOLUl9qLubMfi",
+    "first": "abc",
+    "last": "abc",
+    "designation": "standard"
+  }
+]
